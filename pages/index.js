@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to the next Snowbot version!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Stay tuned for new features... 
         </p>
       </main>
 
